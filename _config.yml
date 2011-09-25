@@ -1,0 +1,4 @@
+title: Test
+permalink: /posts/:title
+markdown: rdiscount
+pygments: true
