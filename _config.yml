@@ -1,4 +1,4 @@
 title: Test
-permalink: /posts/:title
+permalink: test/posts/:title
 markdown: rdiscount
 pygments: true
